@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://madalinagomei.github.io/goit-js-hw-11/",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
